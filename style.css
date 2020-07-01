@@ -1,0 +1,107 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+p{ color: g;
+
+}
+.orange-highlight{
+    color: orange;
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 80%;
+    float:relative;
+
+}
+section{
+    height: 350px;
+    padding-bottom: 80px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( lightSalmon, olive);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 700;
+}
+
+.top-banner{   
+    background-image: url(images/header-bg.png);
+    background: no-repeat;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    position: right;
+   
+}
+.mid-width{
+    width: 50%;
+    float: relative;
+    padding-left: 2%;
+    margin-left: 5%;
+
+}
+.mid-width img{
+    width: 60%;
+    float: left;
+}
+.myletest.work{
+    width: 40%;
+    text-align: center;
+    float: relative;
+    margin: 5%;
+}
+
+.myletest.work img{
+
+    width: 30%;
+    border-left: 10px solid;
+    
+}
+#all-work{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#all-work img{
+    width: 30%;
+    padding: 10px 20px;
+    margin-left: 5px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+#all-work img:hover{
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    
+}       
+h3{
+    color: grey;
+    font-size: smaller;
+    text-align: center;
+}
+
+
+.footer{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: monospace;
+    background-color: cornsilk;
+}
+#contact{
+    background-color: gainsboro;
+    
+    text-decoration-color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
